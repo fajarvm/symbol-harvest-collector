@@ -1,5 +1,5 @@
 # symbol-harvest-collector
-An automation script with Google Apps Script that collect harvested fees by your harvesting account and display them in Google Sheets
+An automation script with Google Apps Script that collects harvested fees by your harvesting account and display them in Google Sheets
 
 ### How to set up ###
 1. Create a Sheet in Google Sheets and give it a name. E.g: `Symbol Harvesting Overview`  
